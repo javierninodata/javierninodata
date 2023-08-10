@@ -1,11 +1,9 @@
 <h1 align="center">Buenas 👋,Soy Javi Niño</h1>
-<h3 align="center">Un Data Analyst de Sevilla, España</h3>
+<h3 align="center">Data Analyst de Sevilla, España</h3>
 
 - 🔭 Actualmente trabajo en [Zinkee](https://www.zinkee.com/)
 
-- 🌱 Estoy aprendiendo **MySQL & Pyhton**
-
-- 🤝 Estoy deseando conocer **Nuevos proyectos de análisis de datos**
+- 🌱 Estoy desarrollando mis conocimientos en **MySQL & Pyhton**
 
 - 💬 Preguntame sobre **Analítica de datos SaaS, Aeronáutica**
 
